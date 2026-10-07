@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Charlotte ✨
 
-<!--
-**charlottezhu1/charlottezhu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems that model emotion and support wellbeing, on social media and beyond.
 
-Here are some ideas to get you started:
+Stanford CS and HCI coterm student (BS/MS), graduating spring 2027. Looking for full time software engineer and product engineer or manager roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands on product experience at three startups and three years of research experience in the Stanford HCI Group.
+
+## Recent work
+
+**BabyMilu**: Evaluating voice experience, roleplay quality, and LLM conversation safety for an AI companion plushie.
+
+**Research**: Evaluating LLMs' ability to predict emotional experience on social media and to represent people from different cultures.
+
+## Interests
+
+Affective computing · Human AI interaction · LLM evaluation
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/charlotte-zhu-4666121b9/) · [Email](charlottezhu026@gmail.com)
