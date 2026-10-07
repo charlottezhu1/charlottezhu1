@@ -14,8 +14,8 @@ I have hands on product experience at three startups and three years of research
 
 ## Interests
 
-Affective computing · Human AI interaction · LLM evaluation
+Human AI interaction · LLM evaluation · Affective computing · Computational social science · Quantitative evals
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/charlotte-zhu-4666121b9/) · [Email](charlottezhu026@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/charlotte-zhu-4666121b9/) · [Email](mailto:charlottezhu026@gmail.com)
