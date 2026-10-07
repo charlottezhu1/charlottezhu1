@@ -2,7 +2,7 @@
 
 I build AI systems that model emotion and support wellbeing, on social media and beyond.
 
-Stanford CS and HCI coterm student (BS/MS), graduating spring 2027. Looking for full time software engineer and product engineer or manager roles.
+Stanford CS and HCI coterm student (BS/MS), graduating **spring 2027**. Looking for full time **software engineer** / **product engineer** / **research engineer** roles.
 
 I have hands on product experience at three startups and three years of research experience in the Stanford HCI Group.
 
